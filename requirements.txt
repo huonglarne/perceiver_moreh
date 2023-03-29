@@ -1,0 +1,8 @@
+torch==1.10
+transformers==4.28.0.dev0 
+datasets
+scikit-learn
+opencv-python
+imageio
+IPython
+accelerate
